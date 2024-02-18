@@ -20,8 +20,7 @@ class NamerForm(FlaskForm):
 
 @app.route('/')
 def index():
-	favourite_pizza =['Pepperoni', 'Cheese', 'Mushrooms', 42]
-	return render_template('index.html', favourite_pizza=favourite_pizza)
+	return render_template('index.html')
 
 
 #vad är det för connection? name i route och name i user måste vara sammankopplade, kolla på user.html
@@ -52,9 +51,7 @@ def create_name():
 	if form.validate_on_submit():
 		name = form.name.data
 		form.name.data = ''
-	return render_template('name.html', 
-		name=name,
-		form=form)
+	return render_template('name.html', name=name, form=form)
 
 
 if __name__=='__main__':
