@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dic",
+				"dict_of_issues"
+			],
+			[
+				"res",
+				"result_list"
+			],
+			[
+				"dict",
+				"dict_of_issues"
+			],
+			[
+				"al",
+				"alien_2"
+			],
+			[
+				"a",
+				"alien_1"
+			],
+			[
+				"ali",
+				"alien_0"
+			],
+			[
+				"dro",
+				"drone_decending"
+			],
+			[
+				"new",
+				"new_drone2"
+			],
+			[
+				"eng",
+				"engine_start"
+			],
+			[
+				"drone",
+				"drone_start"
+			],
+			[
+				"Drone",
+				"DroneStart"
+			],
+			[
+				"Dr",
+				"DroneStart"
+			],
+			[
+				"Dron",
+				"DroneStart"
+			],
+			[
+				"Dro",
+				"DroneAscending"
+			],
+			[
+				"ne",
+				"new_drone2"
+			],
+			[
+				"de",
+				"descend"
+			],
+			[
+				"d",
+				"drone_decending"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"in",
+				"input_new"
+			],
+			[
+				"reg",
+				"registerWithAICloud"
+			],
+			[
+				"retur",
+				"returnSignalFromMainBus"
+			],
+			[
+				"ret",
+				"generateID"
+			],
+			[
+				"re",
+				"returnSignalFromMainBus"
+			],
+			[
+				"ab",
+				"abstractmethod"
+			],
+			[
+				"wha",
+				"whaleNew1"
+			],
+			[
+				"An",
+				"AnimalNew"
+			],
+			[
+				"b",
+				"battery"
+			],
+			[
+				"Sum",
+				"sumC"
+			],
+			[
+				"test",
+				"TestA"
+			],
+			[
+				"sum",
+				"SumB"
+			],
+			[
+				"T",
+				"TestA"
+			],
+			[
+				"fi",
+				"FirstA"
+			],
+			[
+				"sec",
+				"SecnondA"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"int",
+				"int_a"
+			],
+			[
+				"app",
+				"apple_b"
+			],
+			[
+				"apple",
+				"apple_a"
+			],
+			[
+				"appl",
+				"apple_a"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build ",
+				"Build With: Python3"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install package controll",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install p",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/w_odi/Desktop/web/app.py",
+		"/D/PythonCrashCourse/zerotohero/functions_lesson.py",
+		"/D/PythonCrashCourse/dictionary_list.py",
+		"/D/PythonCrashCourse/Angela Yu/lesson_dictionary.py",
+		"/D/PythonCrashCourse/zerotohero/advent_1.py",
+		"/D/PythonCrashCourse/zero_hero.py",
+		"/D/PythonCrashCourse/learning_two.py",
+		"/D/PythonCrashCourse/localvariables.py",
+		"/D/PythonCrashCourse/testing1.py",
+		"/D/PythonCrashCourse/animal_class.py",
+		"/D/PythonCrashCourse/while-test.py",
+		"/D/PythonCrashCourse/zen.py",
+		"/D/PythonCrashCourse/code_interview.py",
+		"/D/PythonCrashCourse/malley_test.py",
+		"/C/Users/w_odi/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/D/PythonCrashCourse/whileLoop.py",
+		"/D/PythonCrashCourse/odd_even.py",
+		"/D/PythonCrashCourse/Class_Object.py",
+		"/D/PythonCrashCourse/fruits.py",
+		"/D/PythonCrashCourse/HelloWorld.py",
+		"/D/PythonCrashCourse/motorcycle_list.py",
+		"/D/PythonCrashCourse/guest_list.py",
+		"/C/Users/w_odi/Desktop/style.css",
+		"/C/Users/w_odi/Desktop/index.html",
+		"/C/Users/w_odi/Desktop/style.ccss",
+		"/C/Users/w_odi/Desktop/Environment001/Sublime/QA",
+		"/E/ART/5th planet Games/Cinemachine/Cinemachine",
+		"/C/Users/w_odi/Desktop/PreperationMaterial",
+		"/C/Users/w_odi/Desktop/PROGRAMMING/list.py",
+		"/C/Users/w_odi/Desktop/thewarrior.py",
+		"/C/Users/w_odi/Desktop/help.py",
+		"/C/Users/w_odi/Desktop/impor.py",
+		"/C/Users/w_odi/Desktop/testa2.py",
+		"/C/Users/w_odi/Desktop/test.py",
+		"/C/Users/w_odi/Desktop/fredrik.py",
+		"/C/Users/w_odi/.ssh/id_rsa.pub",
+		"/C/Users/w_odi/AppData/Roaming/Sublime Text 3/Packages/User/test.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'}",
+			")",
+			"')",
+			"()\n",
+			")",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\w_odi\\Desktop\\web\\app.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
