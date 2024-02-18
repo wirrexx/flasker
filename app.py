@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, url_for, redirect
-app = Flask(__name__)
 
+
+
+app = Flask(__name__)
 
 
 @app.route('/')
@@ -20,6 +22,7 @@ def user(name):
 @app.errorhandler(404)
 def page_not_found(e):
 	return render_template('404.html'), 404
+
 
 # Internal server error message
 @app.errorhandler(500)

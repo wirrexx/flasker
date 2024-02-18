@@ -3,21 +3,9 @@
 {% block title %} Index {% endblock %}
 {% block content %}
 
-<div>
-	<h1>Hello World!</h1>
-	<p>This is my first webpage!!!</p>
-	<h3>Favourite Pizza:</h3>
-	<!-- for loops i jinja -->
-	{% for topping in favourite_pizza %}
-
-		{% if topping == 'Pepperoni' %}
-			<p>Hello, <strong>{{ topping }}</strong></p><br>
-		{% else %}
-			{{ topping }}		
-		{% endif %}
-
-	{% endfor %}<br>
-
-</div>
+	<div>
+		<h1>Hello World!</h1>
+		<p>This is my first webpage!!!</p>
+	</div>
 
 {% endblock %}
